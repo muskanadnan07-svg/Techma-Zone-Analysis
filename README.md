@@ -8,7 +8,7 @@ The dashboard provides a clear overview of institute performance and helps ident
 
 ## 📌 Dashboard Preview
 
-![Dashboard Preview](Dashboard.png)
+![Dashboard Preview](Images/Dashboard.png)
 
 A preview image of the completed Power BI dashboard.
 ---
