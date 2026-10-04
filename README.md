@@ -211,7 +211,7 @@ The original Power BI project file containing the data model, measures, visuals,
 
 Note: The .pbix file can be opened using Microsoft Power BI Desktop.
 
-##🖥️ Dashboard Sections
+## 🖥️ Dashboard Sections
 
 The dashboard is divided into several analytical sections:
 
@@ -249,7 +249,6 @@ KPI visibility
 Consistent color usage
 Interactive visualizations
 Business-oriented insights
-📷 Dashboard Preview
 
 ## 🚀 How to Use
 
@@ -292,8 +291,7 @@ What is the overall placement rate?
 ## 👩‍💻 Author
 
 Muskan Adnan
-
-| Data Science Student
+|Data Science Student
 
 ## 🔗 GitHub:
 https://github.com/muskanadnan07-svg
