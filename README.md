@@ -186,7 +186,6 @@ Some of the metrics used in the dashboard include:
 
 The repository contains the following project resources:
 
-```text
 Techma-Zone-Institute-Dashboard/
 │
 ├── 📁 Images/
@@ -198,13 +197,13 @@ Techma-Zone-Institute-Dashboard/
 │   
 └── 📄 README.md
 
-📁 Original Dataset
+## 📁 Original Dataset
 
 Data/techma_zone_powerbi_sample_data.xlsx
 
 The original Excel dataset used for the dashboard.
 
-📊 Power BI File
+## 📊 Power BI File
 
 PowerBI/Techma_Zone_Institute_Dashboard.pbix
 
@@ -212,7 +211,7 @@ The original Power BI project file containing the data model, measures, visuals,
 
 Note: The .pbix file can be opened using Microsoft Power BI Desktop.
 
-🖥️ Dashboard Sections
+##🖥️ Dashboard Sections
 
 The dashboard is divided into several analytical sections:
 
@@ -237,7 +236,8 @@ Batch Status
 Active
 Completed
 Upcoming
-🎨 Dashboard Design
+
+## 🎨 Dashboard Design
 
 The dashboard uses a dark blue professional theme with contrasting colors for better visual distinction.
 
@@ -251,15 +251,17 @@ Interactive visualizations
 Business-oriented insights
 📷 Dashboard Preview
 
-🚀 How to Use
+## 🚀 How to Use
+
 Download or clone this repository.
 Open the project folder.
 Open the Power BI file:
-PowerBI/Techma_Zone_Institute_Dashboard.pbix
+PowerBI/Techma_Zone_Analysis.pbix
 If required, update the Excel data source location.
 Click Refresh in Power BI.
 Use the dashboard filters to explore different student and batch segments.
-💡 Business Questions Answered
+
+## 💡 Business Questions Answered
 
 This dashboard helps answer questions such as:
 
@@ -274,7 +276,8 @@ How many students are from Pakistan vs overseas?
 Which courses have the highest number of placed students?
 How does student strength vary by gender?
 What is the overall placement rate?
-📌 Project Highlights
+
+## 📌 Project Highlights
 
 ✨ Interactive Power BI dashboard
 ✨ Institute-level student analytics
@@ -286,16 +289,16 @@ What is the overall placement rate?
 ✨ KPI-based reporting
 ✨ Clean and professional dashboard design
 
-👩‍💻 Author
+## 👩‍💻 Author
 
 Muskan Adnan
 
-Data Scientist | Data Science Student
+| Data Science Student
 
-🔗 GitHub:
+## 🔗 GitHub:
 https://github.com/muskanadnan07-svg
 
-🔗 LinkedIn:
+## 🔗 LinkedIn:
 https://www.linkedin.com/in/muskan-adnan/
 
 ⭐ If You Like This Project
